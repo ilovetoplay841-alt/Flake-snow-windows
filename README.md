@@ -1,3 +1,5 @@
+recomended:Flake v1.2
+new:Flake v2
 # ❄️ Flake
 
 **Flake** brings realistic, interactive snow right to your desktop without getting in the way of your work. 
